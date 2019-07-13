@@ -1,0 +1,6 @@
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb

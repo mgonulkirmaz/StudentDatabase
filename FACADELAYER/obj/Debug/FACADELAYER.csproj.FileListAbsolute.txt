@@ -1,0 +1,9 @@
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\bin\Debug\FACADELAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\obj\Debug\FACADELAYER.csprojAssemblyReference.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\obj\Debug\FACADELAYER.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\obj\Debug\FACADELAYER.csproj.CopyComplete
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\obj\Debug\FACADELAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\FACADELAYER\obj\Debug\FACADELAYER.pdb

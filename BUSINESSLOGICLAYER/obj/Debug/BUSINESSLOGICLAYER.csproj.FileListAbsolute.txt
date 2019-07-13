@@ -1,0 +1,11 @@
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\bin\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\bin\Debug\BUSINESSLOGICLAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csprojAssemblyReference.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csproj.CopyComplete
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.pdb

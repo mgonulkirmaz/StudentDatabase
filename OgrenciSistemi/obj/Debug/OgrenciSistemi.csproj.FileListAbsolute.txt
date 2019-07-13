@@ -1,0 +1,17 @@
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe.config
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\ENTITYLAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\FACADELAYER.dll
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\BUSINESSLOGICLAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\ENTITYLAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\bin\Debug\FACADELAYER.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojAssemblyReference.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.CopyComplete
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\musta\Documents\Visual Studio 2017\Projects\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
